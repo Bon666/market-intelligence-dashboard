@@ -1,7 +1,5 @@
-pandas
 numpy
+pandas
 yfinance
-matplotlib
-seaborn
-plotly
 scikit-learn
+plotly
